@@ -87,7 +87,7 @@ p {
   text-decoration: underline;
 }
 
-a:hover {
+.secondary-link:hover {
   color: #0a58ca;
 }
 
